@@ -5,3 +5,4 @@
 - [2026-03-14T09:24:21Z] chore: remove deprecated API calls
 - [2026-03-14T21:21:23Z] fix: resolve edge case in input validation
 - [2026-04-21T15:51:28Z] test: add unit tests for core module
+- [2026-04-21T12:55:21Z] docs: improve inline documentation
